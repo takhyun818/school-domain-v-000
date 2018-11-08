@@ -23,4 +23,3 @@ def sort
   end
   sorted
 end
-
